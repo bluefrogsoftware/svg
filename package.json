@@ -1,0 +1,19 @@
+{
+    "name": "@ofcs/jquery-svg",
+    "version": "1.4.5",
+    "description": "jQuery SVG Integration ======================",
+    "main": "jquery.svg.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bluefrogsoftware/jquery-svg.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bluefrogsoftware/jquery-svg/issues"
+    },
+    "homepage": "https://github.com/bluefrogsoftware/jquery-svg#readme"
+}
